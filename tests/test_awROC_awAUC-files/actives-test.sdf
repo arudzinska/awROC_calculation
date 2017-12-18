@@ -1,0 +1,612 @@
+Andy
+                    3D
+ Structure written by MMmdl.
+ 26 26  0  0  1  0            999 V2000
+   -1.1126    2.5738    0.8591 C   0  0  0  0  0  0
+   -1.5349    1.1478    0.5366 C   0  0  0  0  0  0
+   -2.7626    0.7147    1.0812 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+M  CHG  2  12   1  14  -1
+M  END
+> <id>
+Andy
+
+> <Cluster>
+1
+
+> <MODEL.SOURCE>
+CORINA 3.44 0027  09.01.2008
+
+> <MODEL.CCRATIO>
+0.97
+
+> <r_mmffld_Potential_Energy-OPLS_2005>
+-5.06115
+
+> <r_mmffld_RMS_Derivative-OPLS_2005>
+0.000137083
+
+> <b_mmffld_Minimization_Converged-OPLS_2005>
+1
+
+$$$$
+John
+                    3D
+ Structure written by MMmdl.
+ 26 26  0  0  1  0            999 V2000
+   -1.1126    2.5738    0.8591 C   0  0  0  0  0  0
+   -1.5349    1.1478    0.5366 C   0  0  0  0  0  0
+   -2.7626    0.7147    1.0812 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+M  CHG  2  12   1  14  -1
+M  END
+> <id>
+John
+
+> <Cluster>
+1
+
+> <MODEL.SOURCE>
+CORINA 3.44 0027  09.01.2008
+
+> <MODEL.CCRATIO>
+0.97
+
+> <r_mmffld_Potential_Energy-OPLS_2005>
+-5.06115
+
+> <r_mmffld_RMS_Derivative-OPLS_2005>
+0.000137083
+
+> <b_mmffld_Minimization_Converged-OPLS_2005>
+1
+
+$$$$
+Michael
+                    3D
+ Structure written by MMmdl.
+ 26 26  0  0  1  0            999 V2000
+   -1.1126    2.5738    0.8591 C   0  0  0  0  0  0
+   -1.5349    1.1478    0.5366 C   0  0  0  0  0  0
+   -2.7626    0.7147    1.0812 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+M  CHG  2  12   1  14  -1
+M  END
+> <id>
+Michael
+
+> <Cluster>
+1
+
+> <MODEL.SOURCE>
+CORINA 3.44 0027  09.01.2008
+
+> <MODEL.CCRATIO>
+0.97
+
+> <r_mmffld_Potential_Energy-OPLS_2005>
+-5.06115
+
+> <r_mmffld_RMS_Derivative-OPLS_2005>
+0.000137083
+
+> <b_mmffld_Minimization_Converged-OPLS_2005>
+1
+
+$$$$
+Peter
+                    3D
+ Structure written by MMmdl.
+ 26 26  0  0  1  0            999 V2000
+   -1.1126    2.5738    0.8591 C   0  0  0  0  0  0
+   -1.5349    1.1478    0.5366 C   0  0  0  0  0  0
+   -2.7626    0.7147    1.0812 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+M  CHG  2  12   1  14  -1
+M  END
+> <id>
+Peter
+
+> <Cluster>
+1
+
+> <MODEL.SOURCE>
+CORINA 3.44 0027  09.01.2008
+
+> <MODEL.CCRATIO>
+0.97
+
+> <r_mmffld_Potential_Energy-OPLS_2005>
+-5.06115
+
+> <r_mmffld_RMS_Derivative-OPLS_2005>
+0.000137083
+
+> <b_mmffld_Minimization_Converged-OPLS_2005>
+1
+
+$$$$
+Paul
+                    3D
+ Structure written by MMmdl.
+ 26 26  0  0  1  0            999 V2000
+   -1.1126    2.5738    0.8591 C   0  0  0  0  0  0
+   -1.5349    1.1478    0.5366 C   0  0  0  0  0  0
+   -2.7626    0.7147    1.0812 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+M  CHG  2  12   1  14  -1
+M  END
+> <id>
+Paul
+
+> <Cluster>
+1
+
+> <MODEL.SOURCE>
+CORINA 3.44 0027  09.01.2008
+
+> <MODEL.CCRATIO>
+0.97
+
+> <r_mmffld_Potential_Energy-OPLS_2005>
+-5.06115
+
+> <r_mmffld_RMS_Derivative-OPLS_2005>
+0.000137083
+
+> <b_mmffld_Minimization_Converged-OPLS_2005>
+1
+
+$$$$
+Monica
+                    3D
+ Structure written by MMmdl.
+ 26 26  0  0  1  0            999 V2000
+   -1.1126    2.5738    0.8591 C   0  0  0  0  0  0
+   -1.5349    1.1478    0.5366 C   0  0  0  0  0  0
+   -2.7626    0.7147    1.0812 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+M  CHG  2  12   1  14  -1
+M  END
+> <id>
+Monica
+
+> <Cluster>
+2
+
+> <MODEL.SOURCE>
+CORINA 3.44 0027  09.01.2008
+
+> <MODEL.CCRATIO>
+0.97
+
+> <r_mmffld_Potential_Energy-OPLS_2005>
+-5.06115
+
+> <r_mmffld_RMS_Derivative-OPLS_2005>
+0.000137083
+
+> <b_mmffld_Minimization_Converged-OPLS_2005>
+1
+
+$$$$
+Jenny
+                    3D
+ Structure written by MMmdl.
+ 26 26  0  0  1  0            999 V2000
+   -1.1126    2.5738    0.8591 C   0  0  0  0  0  0
+   -1.5349    1.1478    0.5366 C   0  0  0  0  0  0
+   -2.7626    0.7147    1.0812 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+M  CHG  2  12   1  14  -1
+M  END
+> <id>
+Jenny
+
+> <Cluster>
+2
+
+> <MODEL.SOURCE>
+CORINA 3.44 0027  09.01.2008
+
+> <MODEL.CCRATIO>
+0.97
+
+> <r_mmffld_Potential_Energy-OPLS_2005>
+-5.06115
+
+> <r_mmffld_RMS_Derivative-OPLS_2005>
+0.000137083
+
+> <b_mmffld_Minimization_Converged-OPLS_2005>
+1
+
+$$$$
+Lucy
+                    3D
+ Structure written by MMmdl.
+ 26 26  0  0  1  0            999 V2000
+   -1.1126    2.5738    0.8591 C   0  0  0  0  0  0
+   -1.5349    1.1478    0.5366 C   0  0  0  0  0  0
+   -2.7626    0.7147    1.0812 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+M  CHG  2  12   1  14  -1
+M  END
+> <id>
+Lucy
+
+> <Cluster>
+2
+
+> <MODEL.SOURCE>
+CORINA 3.44 0027  09.01.2008
+
+> <MODEL.CCRATIO>
+0.97
+
+> <r_mmffld_Potential_Energy-OPLS_2005>
+-5.06115
+
+> <r_mmffld_RMS_Derivative-OPLS_2005>
+0.000137083
+
+> <b_mmffld_Minimization_Converged-OPLS_2005>
+1
+
+$$$$
+Veronica
+                    3D
+ Structure written by MMmdl.
+ 26 26  0  0  1  0            999 V2000
+   -1.1126    2.5738    0.8591 C   0  0  0  0  0  0
+   -1.5349    1.1478    0.5366 C   0  0  0  0  0  0
+   -2.7626    0.7147    1.0812 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+M  CHG  2  12   1  14  -1
+M  END
+> <id>
+Veronica
+
+> <Cluster>
+2
+
+> <MODEL.SOURCE>
+CORINA 3.44 0027  09.01.2008
+
+> <MODEL.CCRATIO>
+0.97
+
+> <r_mmffld_Potential_Energy-OPLS_2005>
+-5.06115
+
+> <r_mmffld_RMS_Derivative-OPLS_2005>
+0.000137083
+
+> <b_mmffld_Minimization_Converged-OPLS_2005>
+1
+
+$$$$
+Pauline
+                    3D
+ Structure written by MMmdl.
+ 26 26  0  0  1  0            999 V2000
+   -1.1126    2.5738    0.8591 C   0  0  0  0  0  0
+   -1.5349    1.1478    0.5366 C   0  0  0  0  0  0
+   -2.7626    0.7147    1.0812 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+M  CHG  2  12   1  14  -1
+M  END
+> <id>
+Pauline
+
+> <Cluster>
+2
+
+> <MODEL.SOURCE>
+CORINA 3.44 0027  09.01.2008
+
+> <MODEL.CCRATIO>
+0.97
+
+> <r_mmffld_Potential_Energy-OPLS_2005>
+-5.06115
+
+> <r_mmffld_RMS_Derivative-OPLS_2005>
+0.000137083
+
+> <b_mmffld_Minimization_Converged-OPLS_2005>
+1
+
+$$$$
+Katie
+                    3D
+ Structure written by MMmdl.
+ 26 26  0  0  1  0            999 V2000
+   -1.1126    2.5738    0.8591 C   0  0  0  0  0  0
+   -1.5349    1.1478    0.5366 C   0  0  0  0  0  0
+   -2.7626    0.7147    1.0812 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+M  CHG  2  12   1  14  -1
+M  END
+> <id>
+Katie
+
+> <Cluster>
+2
+
+> <MODEL.SOURCE>
+CORINA 3.44 0027  09.01.2008
+
+> <MODEL.CCRATIO>
+0.97
+
+> <r_mmffld_Potential_Energy-OPLS_2005>
+-5.06115
+
+> <r_mmffld_RMS_Derivative-OPLS_2005>
+0.000137083
+
+> <b_mmffld_Minimization_Converged-OPLS_2005>
+1
+
+$$$$
+Sophie
+                    3D
+ Structure written by MMmdl.
+ 26 26  0  0  1  0            999 V2000
+   -1.1126    2.5738    0.8591 C   0  0  0  0  0  0
+   -1.5349    1.1478    0.5366 C   0  0  0  0  0  0
+   -2.7626    0.7147    1.0812 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+M  CHG  2  12   1  14  -1
+M  END
+> <id>
+Sophie
+
+> <Cluster>
+2
+
+> <MODEL.SOURCE>
+CORINA 3.44 0027  09.01.2008
+
+> <MODEL.CCRATIO>
+0.97
+
+> <r_mmffld_Potential_Energy-OPLS_2005>
+-5.06115
+
+> <r_mmffld_RMS_Derivative-OPLS_2005>
+0.000137083
+
+> <b_mmffld_Minimization_Converged-OPLS_2005>
+1
+
+$$$$
+dog
+                    3D
+ Structure written by MMmdl.
+ 26 26  0  0  1  0            999 V2000
+   -1.1126    2.5738    0.8591 C   0  0  0  0  0  0
+   -1.5349    1.1478    0.5366 C   0  0  0  0  0  0
+   -2.7626    0.7147    1.0812 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+M  CHG  2  12   1  14  -1
+M  END
+> <id>
+dog
+
+> <Cluster>
+3
+
+> <MODEL.SOURCE>
+CORINA 3.44 0027  09.01.2008
+
+> <MODEL.CCRATIO>
+0.97
+
+> <r_mmffld_Potential_Energy-OPLS_2005>
+-5.06115
+
+> <r_mmffld_RMS_Derivative-OPLS_2005>
+0.000137083
+
+> <b_mmffld_Minimization_Converged-OPLS_2005>
+1
+
+$$$$
+cat
+                    3D
+ Structure written by MMmdl.
+ 26 26  0  0  1  0            999 V2000
+   -1.1126    2.5738    0.8591 C   0  0  0  0  0  0
+   -1.5349    1.1478    0.5366 C   0  0  0  0  0  0
+   -2.7626    0.7147    1.0812 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+M  CHG  2  12   1  14  -1
+M  END
+> <id>
+cat
+
+> <Cluster>
+3
+
+> <MODEL.SOURCE>
+CORINA 3.44 0027  09.01.2008
+
+> <MODEL.CCRATIO>
+0.97
+
+> <r_mmffld_Potential_Energy-OPLS_2005>
+-5.06115
+
+> <r_mmffld_RMS_Derivative-OPLS_2005>
+0.000137083
+
+> <b_mmffld_Minimization_Converged-OPLS_2005>
+1
+
+$$$$
+monkey
+                    3D
+ Structure written by MMmdl.
+ 26 26  0  0  1  0            999 V2000
+   -1.1126    2.5738    0.8591 C   0  0  0  0  0  0
+   -1.5349    1.1478    0.5366 C   0  0  0  0  0  0
+   -2.7626    0.7147    1.0812 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+M  CHG  2  12   1  14  -1
+M  END
+> <id>
+monkey
+
+> <Cluster>
+3
+
+> <MODEL.SOURCE>
+CORINA 3.44 0027  09.01.2008
+
+> <MODEL.CCRATIO>
+0.97
+
+> <r_mmffld_Potential_Energy-OPLS_2005>
+-5.06115
+
+> <r_mmffld_RMS_Derivative-OPLS_2005>
+0.000137083
+
+> <b_mmffld_Minimization_Converged-OPLS_2005>
+1
+
+$$$$
+horse
+                    3D
+ Structure written by MMmdl.
+ 26 26  0  0  1  0            999 V2000
+   -1.1126    2.5738    0.8591 C   0  0  0  0  0  0
+   -1.5349    1.1478    0.5366 C   0  0  0  0  0  0
+   -2.7626    0.7147    1.0812 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+M  CHG  2  12   1  14  -1
+M  END
+> <id>
+horse
+
+> <Cluster>
+3
+
+> <MODEL.SOURCE>
+CORINA 3.44 0027  09.01.2008
+
+> <MODEL.CCRATIO>
+0.97
+
+> <r_mmffld_Potential_Energy-OPLS_2005>
+-5.06115
+
+> <r_mmffld_RMS_Derivative-OPLS_2005>
+0.000137083
+
+> <b_mmffld_Minimization_Converged-OPLS_2005>
+1
+
+$$$$
+elephant
+                    3D
+ Structure written by MMmdl.
+ 26 26  0  0  1  0            999 V2000
+   -1.1126    2.5738    0.8591 C   0  0  0  0  0  0
+   -1.5349    1.1478    0.5366 C   0  0  0  0  0  0
+   -2.7626    0.7147    1.0812 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+M  CHG  2  12   1  14  -1
+M  END
+> <id>
+elephant
+
+> <Cluster>
+3
+
+> <MODEL.SOURCE>
+CORINA 3.44 0027  09.01.2008
+
+> <MODEL.CCRATIO>
+0.97
+
+> <r_mmffld_Potential_Energy-OPLS_2005>
+-5.06115
+
+> <r_mmffld_RMS_Derivative-OPLS_2005>
+0.000137083
+
+> <b_mmffld_Minimization_Converged-OPLS_2005>
+1
+
+$$$$
+mouse
+                    3D
+ Structure written by MMmdl.
+ 26 26  0  0  1  0            999 V2000
+   -1.1126    2.5738    0.8591 C   0  0  0  0  0  0
+   -1.5349    1.1478    0.5366 C   0  0  0  0  0  0
+   -2.7626    0.7147    1.0812 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+M  CHG  2  12   1  14  -1
+M  END
+> <id>
+mouse
+
+> <Cluster>
+3
+
+> <MODEL.SOURCE>
+CORINA 3.44 0027  09.01.2008
+
+> <MODEL.CCRATIO>
+0.97
+
+> <r_mmffld_Potential_Energy-OPLS_2005>
+-5.06115
+
+> <r_mmffld_RMS_Derivative-OPLS_2005>
+0.000137083
+
+> <b_mmffld_Minimization_Converged-OPLS_2005>
+1
+
+$$$$
