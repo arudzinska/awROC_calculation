@@ -2,7 +2,7 @@
 
 Module to generate Receiver Operating Characteristic (**ROC**) curves, calculate **ROCE** (ROC Enrichments) and **AUC** (Area Under the Curve) - the standard ones, as well as their average weighted modification (**awROC** curve, **awROCE**, **awAUC**) which includes active compounds' clustering information. These metrics are used in virtual screening tools benchmarking tests to assess the performance of the software.
 
-Module reads the output virtual screening ranking from PharmScreen, Pharmacelera's tool for ligand-based virtual screening (see [the webpage of Pharmacelera](https://www.pharmacelera.com/)). The output of the calculation is a CSV file with the enrichments (at 0.5%, 1%, 2% and 5% of false positives fraction retrieved) and a PNG file with the ROC curve.
+The module reads the output virtual screening ranking from PharmScreen, Pharmacelera's tool for ligand-based virtual screening (see [the webpage of Pharmacelera](https://www.pharmacelera.com/)). The output of the calculation is a CSV file with the enrichments (at 0.5%, 1%, 2% and 5% of false positives fraction retrieved), AUC and a PNG file with the ROC curve.
 
 ### ROC
 ROC curve renders the ability of the tool to distinguish between two populations: true active compounds and decoys - inactive molecules. X and Y values of the ROC curve at the given point are calculated as follows:
