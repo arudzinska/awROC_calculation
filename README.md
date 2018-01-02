@@ -7,7 +7,7 @@ The module reads the output virtual screening ranking from PharmScreen, Pharmace
 ### ROC
 ROC curve renders the ability of the tool to distinguish between two populations: true active compounds and decoys - inactive molecules. X and Y values of the ROC curve at the given point are calculated as follows:
 
-![equation-awroc](https://image.ibb.co/kkpEcG/eqn_awroc.png)
+![equation-awroc](https://image.ibb.co/m4zEcG/eqn_roce.png)
 
 where: *X%* is the fraction of the decoys retrieved at the chosen position of the virtual screening ranking.
 
@@ -16,7 +16,7 @@ When dividing the Y point value by the X point value one obtains the ROC Enrichm
 ### awROC
 The average weighted modification inlcudes information about active compounds' clustering to evaluate the tool's ability to retrieve new scaffolds. The modified equation for awROC curve points and awROC Enrichments is as follows:
 
-![equation-awroce](https://image.ibb.co/m4zEcG/eqn_roce.png)
+![equation-awroce](https://image.ibb.co/kkpEcG/eqn_awroc.png)
 
 where: *w<sub>ij</sub>* = 1/*N<sub>j</sub>* and is the weight of the *i*th structure from the *j*th cluster. *N<sub>j</sub>* is the number of structures in given cluster. *&alpha;<sup>X%</sup><sub>ij</sub>* is 1 or 0 depending on whether the *i*th structure of the *j*th cluster already (respectively) appeared or not in the chosen fraction of the dataset.
 
