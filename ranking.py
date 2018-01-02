@@ -17,7 +17,6 @@
 import os
 import matplotlib.pyplot as plt
 from numpy import trapz
-import json
 
 class Ranking(object):
     """
